@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 70CA-D466
+
+ R‚pertoire de C:\Users\DELL\Desktop\test
+
+28/03/2021  11:15    <REP>          .
+28/03/2021  11:15    <REP>          ..
+28/03/2021  11:15                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  50ÿ187ÿ976ÿ704 octets libres
